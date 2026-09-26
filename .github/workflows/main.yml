@@ -1,4 +1,4 @@
-name: Delta Bot
+name: Delta Bot.py
 
 on:
   workflow_dispatch:
