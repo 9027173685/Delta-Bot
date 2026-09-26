@@ -1,4 +1,4 @@
-name: "delta_bot.py"
+name: delta bot.py
 
 on:
   workflow_dispatch:
@@ -17,6 +17,8 @@ jobs:
           python-version: "3.11"
 
       - name: Run bot
-        run:  python "delta bot.py"
+        run: python "delta bot.py"
+
+
 
 
