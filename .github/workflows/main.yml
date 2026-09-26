@@ -17,4 +17,5 @@ jobs:
           python-version: "3.11"
 
       - name: Run bot
-        run: python delta_bot.py
+        run:  python "Delta Bot.py"
+
